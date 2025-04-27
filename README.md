@@ -1,4 +1,4 @@
-## Advanced_AEBS_Project
+## Next_Generation_AEBS_Project
 
 ## A fully functional example project of a next generation AEBS braking system that is focused on reducing vehicles reaction time in engaging full force braking
 
